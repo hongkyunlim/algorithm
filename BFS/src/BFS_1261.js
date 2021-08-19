@@ -1,7 +1,7 @@
 var path = require('path');
 var inputs = require('fs').readFileSync(path.resolve('./1261.txt'), 'utf8').toString().trim().split('\n');
 // var inputs = require('fs').readFileSync('/dev/stdin').toString().trim().split('\n');
-
+testest
 var n = +(inputs[0].split(' ')[0]);
 var m = +(inputs[0].split(' ')[1]);
 var input;
